@@ -32,7 +32,7 @@ export default function Card({ item, addFilter, filters }) {
         {allTags.map((tag, index) => (
           <button
             key={index}
-            className="bg-light-cyan rounded-[4px] text-cyan px-2 py-1 enabled:hover:bg-cyan enabled:hover:text-white transition-colors disabled:opacity-50"
+            className="bg-grayish-cyan rounded-[4px] text-cyan px-2 py-1 enabled:hover:bg-cyan enabled:hover:text-white transition-colors disabled:opacity-50"
             onClick={() => addFilter(tag)}
             disabled={filters.includes(tag)}
           >

@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/MIsNTWf.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/job-listings-using-react-and-tailwind-gF8hGUKQAa](https://www.frontendmentor.io/solutions/job-listings-using-react-and-tailwind-gF8hGUKQAa)
+- Live Site URL: [https://jobs-registry.vercel.app/](https://jobs-registry.vercel.app/)
 
 ## My process
 

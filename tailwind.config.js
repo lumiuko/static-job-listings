@@ -8,7 +8,8 @@ export default {
         cyan: 'hsl(180, 29%, 50%)',
         'light-cyan': 'hsl(180, 52%, 96%)',
         'dark-cyan': 'hsl(180, 8%, 52%)',
-        'very-dark-cyan': 'hsl(180, 14%, 20%)'
+        'very-dark-cyan': 'hsl(180, 14%, 20%)',
+        'grayish-cyan': 'hsl(180, 28%, 95%)'
       },
       transitionProperty: {
         fadeIn: 'visibility, opacity'
